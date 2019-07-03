@@ -1,0 +1,38 @@
+{
+  "name": "Maxcoro",
+  "short_name": "Maxcoro",
+  "start_url": "https://maxcoro.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "maxcoro adalah blog yang mengulas berbagai cara mengenai penggunaan aplikasi cara mendaftar dan artikel terkait lainnya.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-UWgn1kVPzD0/XRvsQO8d2RI/AAAAAAAABD8/QTCt3-JAvxkZw8LvXk_ZBWH_QKt-tHSvwCLcBGAs/s48/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-m6aXE7qowp0/XRvsSeG8MdI/AAAAAAAABEI/05FZXuCUs60O48f3X27OaN3XNnk8DiTdQCLcBGAs/s72/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-2ZjSRHCaiXQ/XRvsSoDCm_I/AAAAAAAABEM/dua_zqFXnrwQ4tLQemxuGtlSqGjjFx1bgCLcBGAs/s96/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-c8BMZTlZDQs/XRvsQZtPQAI/AAAAAAAABEA/3YJ_r__jm1Iguq_IunVGDE66zPlMD-tLgCLcBGAs/s144/android-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-c8BMZTlZDQs/XRvsQZtPQAI/AAAAAAAABEA/3YJ_r__jm1Iguq_IunVGDE66zPlMD-tLgCLcBGAs/s168/android-icon-144x144.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Ifu5pJXxYZI/XRvsQWKU9fI/AAAAAAAABEE/gcLwgBUrpSYn4bpxVM1zqcGqOqxFuvccgCLcBGAs/s192/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-i6IYxGwdl5k/XRvtsrJw_fI/AAAAAAAABEk/urUlSXE9KR4_EhBdwOkp_V6B3e34ZyIuQCLcBGAs/s512/logo.jpg",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
