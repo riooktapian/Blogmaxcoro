@@ -24,7 +24,9 @@ var xxx=null;
 if(x=="1"){xxx="is-it-better-to-buy-or-lease-new-car.html"}
 if(x=="2"){xxx="the-multilayered-cryptocurrency.html"}
 if(x=="3"){xxx="5-simple-steps-to-earn-money-from.html"}
-if(x=="4"){xxx="5-digital-marketing-basics-you-should.html"}a_to_ve[i].href="https://safelink.maxoke.com/2019/07/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="4"){xxx="5-digital-marketing-basics-you-should.html"}
+if(x=="5"){xxx="best-free-blogger-templates-to-create.html"}
+if(x=="6"){xxx="7-cameras-that-offers-excellent-picture.html"}a_to_ve[i].href="https://safelink.maxoke.com/2019/07/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
