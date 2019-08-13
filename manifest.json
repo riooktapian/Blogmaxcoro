@@ -1,38 +1,66 @@
 {
-  "name": "Maxcoro",
+  "name": "Blog Maxcoro",
   "short_name": "Maxcoro",
-  "start_url": "https://maxcoro.xyz/",
-  "display": "standalone",
-  "background_color": "#fff",
-  "theme_color": "#C51162",
-  "description": "maxcoro adalah blog yang mengulas berbagai cara mengenai penggunaan aplikasi cara mendaftar dan artikel terkait lainnya.",
-  "icons": [{
-    "src": "https://1.bp.blogspot.com/-UWgn1kVPzD0/XRvsQO8d2RI/AAAAAAAABD8/QTCt3-JAvxkZw8LvXk_ZBWH_QKt-tHSvwCLcBGAs/s48/android-icon-48x48.png",
-    "sizes": "48x48",
-    "type": "image/png"
-  }, {
-    "src": "https://1.bp.blogspot.com/-m6aXE7qowp0/XRvsSeG8MdI/AAAAAAAABEI/05FZXuCUs60O48f3X27OaN3XNnk8DiTdQCLcBGAs/s72/android-icon-72x72.png",
-    "sizes": "72x72",
-    "type": "image/png"
-  }, {
-    "src": "https://1.bp.blogspot.com/-2ZjSRHCaiXQ/XRvsSoDCm_I/AAAAAAAABEM/dua_zqFXnrwQ4tLQemxuGtlSqGjjFx1bgCLcBGAs/s96/android-icon-96x96.png",
-    "sizes": "96x96",
-    "type": "image/png"
-  }, {
-    "src": "https://1.bp.blogspot.com/-c8BMZTlZDQs/XRvsQZtPQAI/AAAAAAAABEA/3YJ_r__jm1Iguq_IunVGDE66zPlMD-tLgCLcBGAs/s144/android-icon-144x144.png",
-    "sizes": "144x144",
-    "type": "image/png"
-  }, {
-    "src": "https://1.bp.blogspot.com/-c8BMZTlZDQs/XRvsQZtPQAI/AAAAAAAABEA/3YJ_r__jm1Iguq_IunVGDE66zPlMD-tLgCLcBGAs/s168/android-icon-144x144.png",
-    "sizes": "168x168",
-    "type": "image/png"
-  }, {
-    "src": "https://1.bp.blogspot.com/-Ifu5pJXxYZI/XRvsQWKU9fI/AAAAAAAABEE/gcLwgBUrpSYn4bpxVM1zqcGqOqxFuvccgCLcBGAs/s192/android-icon-192x192.png",
-    "sizes": "192x192",
-    "type": "image/png"
-  }, {
-    "src": "https://1.bp.blogspot.com/-i6IYxGwdl5k/XRvtsrJw_fI/AAAAAAAABEk/urUlSXE9KR4_EhBdwOkp_V6B3e34ZyIuQCLcBGAs/s512/logo.jpg",
-    "sizes": "512x512",
-    "type": "image/png"
-  }]
+  "start_url": "https://www.maxcoro.xyz/?home=true",
+  "icons": [
+    {
+      "src": "https://1.bp.blogspot.com/-VdLXlzwyYKY/XVKxpJAATjI/AAAAAAAABTM/nNsoMOwqHAI4TAO5aUfHXyYI_Q3KebLOwCLcBGAs/s1600/android-icon-36x36.png",
+      "sizes": "36x36",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-LsPWtnVU3nE/XVKxp1iQ-AI/AAAAAAAABTU/gJfvkl0EIgUQx4InG7lNSDNv58gMDmQLQCLcBGAs/s1600/android-icon-48x48.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-3BZjWAl36DA/XVKywBaipVI/AAAAAAAABT8/hltBI5siKq49lcZrC16Azoaj7bBAF91eACLcBGAs/s1600/apple-icon-60x60.png",
+      "sizes": "60x60",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-ImlXMm-Ji4w/XVKxp2I74UI/AAAAAAAABTY/WuEsiny53YQ47xDTJTgcAVHmL8rpavm4wCLcBGAs/s1600/android-icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-b6aMWA208T4/XVKzC-ib3UI/AAAAAAAABUE/jlRIEGdffTYFBtIir0BCoummpb2pmXLtQCLcBGAs/s1600/apple-icon-76x76.png",
+      "sizes": "76x76",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-NbPxJb1yl9g/XVKxqi17ENI/AAAAAAAABTc/Ox5ncddBl00sZtYfFMRGV4XtgxYJC3AxQCLcBGAs/s1600/android-icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-KWXuGQXTeuk/XVKzRsEdxsI/AAAAAAAABUI/rohVto19CTonOgt58kOQ2Kp1nHQ_ffFQQCLcBGAs/s1600/apple-icon-120x120.png",
+      "sizes": "120x120",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-BTBfMMPiyok/XVKzfkvDRwI/AAAAAAAABUQ/qrxq8EmXr_IovCoVaKJuFMHxd28ZDQDsgCLcBGAs/s1600/apple-icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-VZwXN8-xuiM/XVKz5edBL8I/AAAAAAAABUc/iODG-dTM0R8osa2oQJXPE0vaCGzC8K00QCLcBGAs/s1600/apple-icon-180x180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-nn9kiglzoyY/XVKxpVmdOXI/AAAAAAAABTQ/B6yNVYFMFWEpC-f_pc8fq50rzdxNnqBcwCLcBGAs/s1600/android-icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-AlqEBPII4NU/XVK0aS2S2kI/AAAAAAAABUo/A3cm-mBcFPwVdCaxx4KYn8EuZjY9tnE2wCLcBGAs/s1600/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#000000",
+  "background_color": "#FFFFFF",
+  "display": "fullscreen",
+  "orientation": "portrait"
 }
